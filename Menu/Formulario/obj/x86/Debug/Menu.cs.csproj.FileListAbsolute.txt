@@ -1,0 +1,29 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\bin\Debug\Menu.cs.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\bin\Debug\Menu.cs.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\obj\x86\Debug\Menu.cs.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\obj\x86\Debug\Menu.cs.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\obj\x86\Debug\Menu.cs.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu.cs\obj\x86\Debug\Menu.cs.pdb
+E:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.exe
+E:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.pdb
+F:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.exe
+F:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.pdb
+F:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.Properties.Resources.resources
+F:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2º modulo\DS1\Menu.cs\Menu.cs\bin\Debug\Menu.cs.exe
+F:\2º modulo\DS1\Menu.cs\Menu.cs\bin\Debug\Menu.cs.pdb
+F:\2º modulo\DS1\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.frmMenu.resources
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.exe
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.pdb
+F:\2ºModulo\Menu.cs\Menu.cs\bin\Debug\Menu.cs.exe
+F:\2ºModulo\Menu.cs\Menu.cs\bin\Debug\Menu.cs.pdb
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.frmMenu.resources
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.Properties.Resources.resources
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\GenerateResource.write.1.tlog

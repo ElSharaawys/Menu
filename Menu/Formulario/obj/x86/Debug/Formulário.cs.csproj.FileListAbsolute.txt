@@ -1,0 +1,9 @@
+F:\2ºModulo\Menu.cs\Menu.cs\bin\Debug\Menu.cs.exe
+F:\2ºModulo\Menu.cs\Menu.cs\bin\Debug\Menu.cs.pdb
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.frmMenu.resources
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.Properties.Resources.resources
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.exe
+F:\2ºModulo\Menu.cs\Menu.cs\obj\x86\Debug\Menu.cs.pdb
